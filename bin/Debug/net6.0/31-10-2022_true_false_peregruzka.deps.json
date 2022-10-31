@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "31-10-2022_true_false_peregruzka/1.0.0": {
+        "runtime": {
+          "31-10-2022_true_false_peregruzka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "31-10-2022_true_false_peregruzka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
